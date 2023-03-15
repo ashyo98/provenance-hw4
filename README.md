@@ -1,3 +1,8 @@
+## Heroku pipeline screenshot
+
+![heroku](./images/heroku_pipeline.png)
+
+
 # Provenance
 
 A common architecture used for data collection.
